@@ -100,7 +100,7 @@ const Testimonial = ({
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high"></span>
+                  <span className="testimonial-item-name text-color-high">Anon</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
                     <a href="#0"></a>

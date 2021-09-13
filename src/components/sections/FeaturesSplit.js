@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Other',
+
   };
 
   return (
@@ -96,11 +96,10 @@ const FeaturesSplit = ({
                   
                   </div>
                 <h3 className="mt-0 mb-12">
-                  School Conduct
+                  School
                   </h3>
                 <p className="m-0">
-                  Used to be the typical class clown most of the professors really hated me, it was fun and worth it.
-                  </p>
+                  Graduated in 2017 from Costa Rica Christian School, went to University Of South Carolina Sumter (junior college), currently enrolled at Southwestern College                   </p>
               </div>
               <div className={
                 classNames(
