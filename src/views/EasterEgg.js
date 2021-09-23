@@ -11,16 +11,12 @@ const EasterEgg = () => {
             </div>
             immortality
             <div class="onepiece">
-                < Link to ="https://www.tiktok.com/@pmckane69/video/6958344533880966406">
-                        single
-                    </Link>
                 </div>
-                <batman>
-                    oak
-                </batman>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/cnVJymOzFXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                
         </div>
         
-    
     ); 
 }; 
 
