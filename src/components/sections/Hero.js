@@ -102,6 +102,7 @@ const Hero = ({
             videoTag="iframe" />
         </div>
       </div>
+      
     </section>
   );
 }

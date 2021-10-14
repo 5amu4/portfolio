@@ -5,11 +5,225 @@
     
     color: rgb(235, 235, 235); 
     background: rgb(0, 0, 0);
-    border: 100px solid rgb(179, 255, 0);
-    background-image: url("/public/images/onepiece.jpeg");
     
+    background-image: url('/portfolio/images/giphy.gif');
+    
+    
+}
+.onepiece{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('/portfolio/images/surp.jpg');
+    background-size: contain;
+
+
+
+}
+
+.banner{
+    height: 33.33vh;
+    text-align: center;
+    font-size: 63px;
+    font-weight: 900;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.top-nav{
+    display: flex;
+    justify-content: space-evenly;
+
+
+
+}
+.main-content{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/portfolio/images/system.gif');
+
+
+
+}
+.main-content div{
+width: 44vw;
+height: 9rem;
+margin: 1rem 0;
+font-size: 43px;
+
+border-radius: 3rem;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+
+
+}
+.main-content div:nth-of-type(2){
+    font-size: 44px;
+    font-weight: 600;
+    width: 44vw;
+    height: 7rem;
+    margin: 3rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('/portfolio/images/siren.gif');
+}
+
+.main-content div:nth-of-type(3){
+    width: 60vw;
 }
 
 
 
 
+
+
+
+ 
+   
+.ab1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    font-weight: 900;
+    font-style: oblique;
+    color:black;
+    
+
+
+    height: 44rem;
+
+    background-image: url('/portfolio/images/onepiece.jpeg');
+    background-size: contain;
+   
+    
+
+
+}
+
+
+.ab2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 300px;
+
+    font-size: 100px;
+    color: lawngreen;
+
+    background-image: url('/portfolio/images/skydiving.jpeg');
+    background-size: contain;
+
+
+}
+.contacc{
+    height: 40rem;
+    
+    background-image: url('/portfolio/images/contact.gif');
+
+
+
+}
+.naruto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 40px;
+
+    height: 4rem;
+   
+    margin: 2rem;
+    
+    background-image: url('/portfolio/images/mail.png');
+    background-size: contain;
+
+
+}
+
+.cont{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+    font-size:50px;
+    font-weight: 800px;
+    color: red;
+    
+    
+    height: 7rem;
+   margin: 10rem;
+    
+
+    background-image: url('/portfolio/images/phone.jpeg');
+    background-size: contain;
+
+
+}
+.wats{
+    height: 32rem;
+    margin: 2rem 0;
+    background-image: url('/portfolio/images/ques.jpg');
+    justify-content: space-evenly;
+
+
+}
+.wats div:nth-of-type(1){
+    display: flex;
+    color: crimson;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    
+    height: 6rem;
+
+    font-size: 55px;
+
+}
+
+.wats div:nth-of-type(2){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    font-size: 55px;
+    margin: 6rem;
+
+
+
+}
+.wats div:nth-of-type(3){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    font-size: 55px;
+    margin: 6rem;
+    color: crimson;
+
+    background-image: url('/portfolio/images/soccer.jpg');
+    background-size: contain;
+
+}
